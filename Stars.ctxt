@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=Stars(int)
+comment1.params=
+comment1.target=int\ getScore()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Stars\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ isGround()
+comment4.params=
+comment4.target=boolean\ atGround()
+comment5.params=
+comment5.target=greenfoot.Actor\ getElement()
+numComments=6
